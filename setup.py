@@ -16,7 +16,7 @@ pkgs_dir = find_packages_with_dir('src/python', exclude=[])
 
 setuptools.setup(
     name="lratom",
-    version="0.1",
+    version="0.1.1",
     author="Atom Sun",
     author_email="nsatom@163.com",
     description="Linear Regression Atomic.",
